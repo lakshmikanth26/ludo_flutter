@@ -1,26 +1,18 @@
 # NLudo Flutter
 Ludo Game made with Flutter
 
-[Play now!](https://nizwar.github.io/ludo_flutter/)
+java --version
+openjdk 21.0.4 2024-07-16 LTS
+OpenJDK Runtime Environment Zulu21.36+17-CA (build 21.0.4+7-LTS)
+OpenJDK 64-Bit Server VM Zulu21.36+17-CA (build 21.0.4+7-LTS, mixed mode, sharing)
 
-## TODO : 
-* Multiplayer
-* Write description how the game work
+Flutter 3.24.5 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision dec2ee5c1f (3 weeks ago) • 2024-11-13 11:13:06 -0800
+Engine • revision a18df97ca5
+Tools • Dart 3.5.4 • DevTools 2.37.3
 
-## LICENSE
-```license
-Copyright 2022 - Mochamad Nizwar Syafuan
+step 1 : run dependency installation command
+flutter pub get
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-```
+step 2 : run app
+flutter run
