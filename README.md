@@ -11,8 +11,10 @@ Framework • revision dec2ee5c1f (3 weeks ago) • 2024-11-13 11:13:06 -0800
 Engine • revision a18df97ca5
 Tools • Dart 3.5.4 • DevTools 2.37.3
 
-step 1 : run dependency installation command
+#step 1 : run dependency installation command
+
 flutter pub get
 
-step 2 : run app
+#step 2 : run app
+
 flutter run
